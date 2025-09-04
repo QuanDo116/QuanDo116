@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuanDo116
 - 👀 I’m interested in game dev, apps dev
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C, C++, Java (could be further)
 - 📫 How to reach me: dmquan11@gmail.com
 
 <!---
