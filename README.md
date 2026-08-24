@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KokonutZ
+- 👋 Hi, I’m Kokonutz
 - 👀 I’m interested in game dev, apps dev
 - 🌱 I’m currently learning C, C++, Java 
 
